@@ -8,7 +8,8 @@ $apps = @(
     "Ecopaste.Ecopaste",
     "LiErHeXun.Quicker",
     "chen08209.FlClash",
-    "Tencent.WeChat"
+    "Tencent.WeChat",
+    "voidtools.Everything"
 )
 
 # 3. 循环安装
